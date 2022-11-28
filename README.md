@@ -15,5 +15,5 @@ panel serve demography_dash.ipynb
 
 
 The final visualization looks like this:
-![Plot]()
+![Plot](https://github.com/luisalopresti/demography_dashboard/blob/main/dash_screen.jpg)
 
