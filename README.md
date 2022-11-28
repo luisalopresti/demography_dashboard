@@ -1,4 +1,4 @@
-# Demography in Italy - Dashboard
+## Demography in Italy - dashboard
 ### Interactive dashboard produced using Panel (Python)
 
 All the dependencies can be found in the `requirements.txt` file.  
